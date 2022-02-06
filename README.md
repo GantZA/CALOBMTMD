@@ -1,4 +1,4 @@
-# CALOBMTMD
+# Calibrating a Latent Order Book Model to Market Data
 
 This repository holds the Julia 1.5 scripts used in the minor disseration, Calibrating a Latent Order Book Model to Market Data, by Michael Gant and supervised by Tim Gebbie as a part of the Masters in Advanced Analytics and Decision Sciences in the Statistical Sciences department at the University of Cape Town.
 
