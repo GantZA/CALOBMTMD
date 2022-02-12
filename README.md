@@ -1,5 +1,9 @@
 # Calibrating a Latent Order Book Model to Market Data
 
+![LOB Evolution](https://github.com/GantZA/CALOBMTMD/blob/main/scripts/price_paths/LOB.gif)
+
+![SLOB Evolution](https://github.com/GantZA/CALOBMTMD/blob/main/scripts/price_paths/SLOB.gif)
+
 This repository holds the Julia 1.5 scripts used in the minor disseration, Calibrating a Latent Order Book Model to Market Data, by Michael Gant and supervised by Tim Gebbie as a part of the Masters in Advanced Analytics and Decision Sciences in the Statistical Sciences department at the University of Cape Town.
 
 The code was run using the facilities provided by the UCT High Performance Computing centre. The code run on the HPC requires installing 2 Julia packages from GitHub, namely: SequentialLOB.jl, AdaptiveABC.jl. The Project.toml in this repo contains the required Julia dependancies. 
